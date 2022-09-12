@@ -5,6 +5,6 @@ Hello Everyone!
 
 ![Bhargav Gajare's Github Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=TechWiz007&theme=vue)
 
-[![Bhargav Gajare's GitHub stats](https://github-readme-stats.vercel.app/api?username=TechWiz007&theme=onedark)](https://github.com/anuraghazra/github-readme-stats)
+[![Bhargav Gajare's GitHub stats]<img src="https://github-readme-stats.vercel.app/api?username=TechWiz007&show_icons=true&theme=dark"/>
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=TechWiz007"/>
