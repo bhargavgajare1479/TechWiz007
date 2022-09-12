@@ -1,6 +1,6 @@
 Hello Everyone!
 
-**TechWiz007/my-profile** is a ✨ VERY SPECIAL ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**TechWiz007/TechWiz007** is a ✨ VERY SPECIAL ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 ### Hi there 👋
 * 👂 My name is Bhargav Gajare
