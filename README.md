@@ -2,6 +2,17 @@ Hello Everyone!
 
 **TechWiz007/my-profile** is a ✨ VERY SPECIAL ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
+### Hi there 👋
+* 👂 My name is Bhargav Gajare
+* 👩 Pronouns: He/Him
+* 🔭 I’m currently working on various things, so much that I forget some :)
+* 🌱 I’m currently learning Android Development and its core.
+* 🤝 I’m looking to collaborate on various custom Android Projects (Custom ROMs)
+* 🤔 I’m looking for help with event handling and advanced data structure
+* 📫 How to reach me: Gmail (gajarebhargav@gmail.com) or Telegram (t.me/TechWiz007)
+* ❤️ I love playing eSports titles like VALORANT and Spider-Man Remastered.
+* ⚡ Fun fact: I like to learn about new things...
+
 ![Bhargav Gajare's Github Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=TechWiz007&theme=vue)
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=TechWiz007"/>
