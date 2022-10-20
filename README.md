@@ -10,7 +10,6 @@ Hello Everyone!
 * 🤝 I’m looking to collaborate on various custom Android Projects (Custom ROMs)
 * 🤔 I’m looking for help with event handling and advanced data structure
 * 📫 How to reach me: Gmail (gajarebhargav@gmail.com) or Telegram (t.me/TechWiz007)
-* ❤️ I love playing eSports titles like VALORANT and Spider-Man Remastered.
 * ⚡ Fun fact: I like to learn about new things...
 
 ![Bhargav Gajare's Github Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=TechWiz007&theme=vue)
