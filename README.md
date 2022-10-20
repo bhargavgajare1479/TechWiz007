@@ -4,7 +4,7 @@ Hello Everyone!
 
 ### Hi there 👋
 * 👂 My name is Bhargav Gajare
-* 👩 Pronouns: He/Him
+* 👨‍🦱 Pronouns: He/Him
 * 🔭 I’m currently working on various things, so much that I forget sometimes :)
 * 🌱 I’m currently learning Android Development and its core.
 * 🤝 I’m looking to collaborate on various custom Android Projects (Custom ROMs)
